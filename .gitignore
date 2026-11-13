@@ -1,3 +1,4 @@
 .env
-versi*.py
+config.py
 floder_incluir/config.py
+folder_no_incluir/
